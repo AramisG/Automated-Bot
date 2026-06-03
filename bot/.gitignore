@@ -1,0 +1,12 @@
+.env
+
+__pychace__/
+*.pyc
+
+venv/
+.venv/
+
+.vscode/
+.DS_Store
+
+Pengbot.ipynb
